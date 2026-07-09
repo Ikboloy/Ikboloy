@@ -1,19 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Sobirova Ikboloy
 
-My name is Ikboloy. 
+🎓 I graduated in **Computer Engineering** from **Keimyung University** (South Korea).
 
-<!--
-**Ikboloy/Ikboloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I am from **Uzbekistan** and currently living in **South Korea**.
 
-Here are some ideas to get you started:
+💻 I am passionate about:
+- DevOps
+- Cloud Computing
+- Artificial Intelligence
+- Machine Learning
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...python language
+🌱 My Goal
+Become a DevOps Engineer and AI Engineer.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Python
+- C
+- Java
+- Git
+- GitHub
+
+## 📫 Contact
+Email: sobirovaiqbola4@gmail.com
